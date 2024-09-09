@@ -1,2 +1,2 @@
 # password_generator
-This is a python project learnt through Angela Yu's 100 days of code Udemy course. This project is a password manager using the python package tkinter.
+This project is a password manager using the python package tkinter. I built this project through the help of Angela Yu's python bootcamp course on Udemy.
